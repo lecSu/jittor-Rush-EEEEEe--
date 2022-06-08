@@ -3,7 +3,7 @@ jittor-jittor-Rush EEEEEe-计图挑战热身赛
  
 Jittor计图挑战热身赛代码仓库。队伍：Rush EEEEEe
 
-![主要结果]()
+![主要结果](./result.png)
 
 简介
 ==
